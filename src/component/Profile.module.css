@@ -1,8 +1,13 @@
 .content {
-    grid-area: c;
-    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    background-color: #505A8B;
 }
 
 .item {
-    color: #0983ff;
+    color: #fff;
+}
+
+.post {
+    color: #fff;
 }
