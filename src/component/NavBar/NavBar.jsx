@@ -4,7 +4,8 @@ import s from './NavBar.module.css'
 
 const NavBar = () => {
     return (
-        <nav className={s.nav}>
+        <nav style={{paddingLeft: 10}}
+            className={s.nav}>
             <div className={`${s.item} ${s.active}`}>
                 <a>Profile</a>
             </div>
