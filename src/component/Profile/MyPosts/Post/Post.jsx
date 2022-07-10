@@ -9,7 +9,7 @@ const Post = (props) => {
                 src="https://cdn.shopify.com/s/files/1/2283/2349/t/13/assets/bean--choose-bean-left.jpg?v=108049564517621660831649345669"/>
             {props.message}
             <div>
-                <span>Like</span>
+                <span>Like {props.countLike}</span>
             </div>
         </div>
 
