@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0409565-80f5-4d28-ba78-ffcde3b2f1f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Header/Header.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/NavBar/NavBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/NavBar/NavBar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/NavBar/NavBar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/NavBar/NavBar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Profile/MyPosts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/Profile.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/antongerasimov/Documents/Social-network/src/component/Dialogs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/antongerasimov/Documents/Social-network/src/component/Dialogs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/component/Dialogs" />
@@ -96,7 +86,10 @@
       <workItem from="1657621732346" duration="3000" />
       <workItem from="1657786713234" duration="6439000" />
       <workItem from="1657798266939" duration="1075000" />
-      <workItem from="1657799679572" duration="2358000" />
+      <workItem from="1657799679572" duration="3232000" />
+      <workItem from="1658125569469" duration="35000" />
+      <workItem from="1658125614522" duration="12000" />
+      <workItem from="1658662415969" duration="2142000" />
     </task>
     <servers />
   </component>
