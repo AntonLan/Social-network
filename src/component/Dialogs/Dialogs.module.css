@@ -1,4 +1,26 @@
-.item {
+.dialogs {
+
+}
+
+.dialogsItems{
+}
+
+
+.dialogsItems .active {
+    color: #FFBB5A;
+}
+
+.dialog {
+    padding-top: 10px;
     padding-left: 10px;
     color: #fff;
+}
+
+.messages{
+    padding-top: 10px;
+    color: white;
+}
+
+.messages .message {
+    color: white;
 }

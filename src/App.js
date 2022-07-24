@@ -23,7 +23,7 @@ const App = () => {
                     <div className={`profileColor col-10`}>
                         <Routes>
                             <Route path="/profile" element={<Profile/>}/>
-                            <Route path="/dialogs" element={<Dialogs/>}/>
+                            <Route path="/dialogs/*" element={<Dialogs/>}/>
                         </Routes>
                     </div>
                 </div>
